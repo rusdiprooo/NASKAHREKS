@@ -1,7 +1,6 @@
 # TEST NASKAH
 
 
-<!DOCTYPE html>
 <html>
 <body>
 
